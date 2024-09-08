@@ -1,1 +1,2 @@
 # -TaskRepository
+I am a passionate developer eager to enhance my coding skills and collaborate with others. My goals include mastering Git version control, improving collaborative coding practices, and exploring advanced GitHub features to streamline my workflow. I attended the session to learn from experienced developers, share my insights, and connect with the Code Crash community to create a supportive learning environment.
